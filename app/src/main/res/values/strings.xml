@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Comparison</string>
+    <string name="input_name">Please input a number</string>
+</resources>
